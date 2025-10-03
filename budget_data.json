@@ -1,0 +1,32 @@
+{
+    "myBudget": [
+        {
+            "title": "Fun",
+            "budget": 10
+        },
+        {
+            "title": "Rent",
+            "budget": 1500
+        },
+        {
+            "title": "Bills",
+            "budget": 200
+        },
+        {
+            "title": "Insurance",
+            "budget": 700
+        },
+        {
+            "title": "Internet",
+            "budget": 60
+        },
+        {
+            "title": "Health",
+            "budget": 300
+        },
+        {
+            "title": "Grocery",
+            "budget": 300
+        }
+    ]
+}
